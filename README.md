@@ -7,3 +7,4 @@ Update 1: What seems a basic concept and task is not as easy as it should have b
 Tkinter, an okey-ish module for Python, but quite not the thing I was particularly looking for, so i switched to PyGame...<br>
 Update 2: The code was doing fine, it finally started to seem like a good product, but unfortunately i was reminded that I needed an .exe to run this code on other computers without Python....and after some research I got a solution, the module cx_Freeze.<br>
 Final Thoughts: A pretty insightful project to be honest, I have been learning a lot through working on it and I think that the final product is good for my level.
+The project can be downloaded from the branch under the name "Reminder App.msi", and the Python code is "drink_water.py"
